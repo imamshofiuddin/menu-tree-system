@@ -35,6 +35,7 @@ cd menu-tree-system
    composer install
    ```
 4. **Set Database Information at .env**
+
    copy dan rename file ```.env.example``` menjadi ```.env``` dan isi informasi bagian database
    
 6. **Migrate database**
