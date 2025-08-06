@@ -44,3 +44,5 @@ cd menu-tree-system
    ```
 Untuk menjalankan project jalankan :
 ```npm run dev``` dan ```php artisan serve```
+
+Akses ke route ```/menus``` untuk ke sistem menu tree system
