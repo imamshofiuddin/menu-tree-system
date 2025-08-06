@@ -22,7 +22,7 @@ Berikut adalah langkah-langkah untuk menjalankan project ini secara lokal:
 1. **Clone Project**
 
 ```bash
-git clone https://github.com/username/menu-tree-system.git
+git clone https://github.com/imamshofiuddin/menu-tree-system.git
 cd menu-tree-system
 ```
 
