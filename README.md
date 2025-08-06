@@ -37,7 +37,7 @@ cd menu-tree-system
 4. **Set Database Information at .env**
    copy dan rename file ```.env.example``` menjadi ```.env``` dan isi informasi bagian database
    
-5. **Migrate database**
+6. **Migrate database**
    ```bash
    php artisan migrate
    ```
