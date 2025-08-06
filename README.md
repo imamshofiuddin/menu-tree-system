@@ -1,6 +1,6 @@
 # 📁 Menu Tree System
 
-**Menu Tree System** adalah aplikasi manajemen menu dan sub-menu berbasis **Laravel 11** sebagai backend dan **React.js + Inertia.js** sebagai frontend. Aplikasi ini memungkinkan pengguna membuat struktur menu secara hierarkis (tree) dengan tampilan interaktif dan responsif.
+**Menu Tree System** adalah aplikasi manajemen menu dan sub-menu berbasis **Laravel 11** sebagai backend dan **React.js + Inertia.js** sebagai frontend. Aplikasi ini memungkinkan pengguna membuat struktur menu secara hierarkis (tree).
 
 ---
 
